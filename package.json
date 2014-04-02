@@ -1,0 +1,31 @@
+{
+  "name": "power-assert-karma-seed",
+  "description": "power-assert example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/azu/power-assert-karma-seed/",
+  "repository": {
+    "url": "git://github.com/azu/power-assert-karma-seed.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start --browsers Chrome --single-run"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/power-assert-karma-seed/issues"
+  },
+  "devDependencies": {
+    "browserify": "^3.38.0",
+    "espowerify": "^0.3.0",
+    "karma": "^0.12.2",
+    "karma-browserifast": "^0.4.1",
+    "karma-chrome-launcher": "^0.1.2",
+    "karma-mocha": "^0.1.3",
+    "mocha": "^1.18.2",
+    "power-assert": "^0.4.1"
+  }
+}
