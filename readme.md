@@ -15,10 +15,18 @@ npm install -g karma-cli
 
 ## Usage
 
+### Browser Testing
+
 ``` sh
 npm test
 # or
 karma start # and capture browser
+```
+
+### Node.js Testing
+
+``` sh
+mocha --require intelli-espower-loader
 ```
 
 ## Integrate WebStorm
