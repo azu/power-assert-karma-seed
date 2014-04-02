@@ -31,6 +31,10 @@ Run Debug mode(main use case is **breakpoint**)
 
 ![webstorm config](http://monosnap.com/image/HBgstQMP9xhAS72bBEAbU7s4T9nCd4.png)
 
+More Detail on
+
+* [Running JavaScript tests with Karma - WebStorm - Confluence](http://confluence.jetbrains.com/display/WI/Running+JavaScript+tests+with+Karma "Running JavaScript tests with Karma - WebStorm - Confluence")
+* [Karma ユニットテストをWebStormでデバッグする - Kazzzの日記](http://d.hatena.ne.jp/Kazzz/20130524/p1 "Karma ユニットテストをWebStormでデバッグする - Kazzzの日記")
 
 ## Contributing
 
