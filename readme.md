@@ -21,6 +21,17 @@ npm test
 karma start # and capture browser
 ```
 
+## Integrate WebStorm
+
+Run Debug mode(main use case is **breakpoint**)
+
+1. `karma start`
+2. Open `http://localhost:9876/debug.html` form WebStorm.
+3. We Can Set Breakpoint!!
+
+![webstorm config](http://monosnap.com/image/HBgstQMP9xhAS72bBEAbU7s4T9nCd4.png)
+
+
 ## Contributing
 
 1. Fork it!
