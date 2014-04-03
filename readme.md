@@ -1,6 +1,6 @@
 # power-assert-karma-seed
 
-Example project of [power-assert](https://github.com/twada/power-assert "power-assert") + [Karma](https://github.com/karma-runner/karma "Karma") + [[browserify](https://github.com/substack/node-browserify "browserify").
+Example project of [power-assert](https://github.com/twada/power-assert "power-assert") + [Karma](https://github.com/karma-runner/karma "Karma") + [browserify](https://github.com/substack/node-browserify "browserify").
 
 Testing for Browser with [power-assert](https://github.com/twada/power-assert "power-assert").
 
