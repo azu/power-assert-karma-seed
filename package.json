@@ -1,7 +1,7 @@
 {
   "name": "power-assert-karma-seed",
   "description": "power-assert example",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/azu/power-assert-karma-seed/",
   "repository": {
     "url": "git://github.com/azu/power-assert-karma-seed.git"
