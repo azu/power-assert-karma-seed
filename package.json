@@ -19,14 +19,14 @@
     "url": "https://github.com/azu/power-assert-karma-seed/issues"
   },
   "devDependencies": {
-    "browserify": "^3.38.0",
-    "espowerify": "^0.6.0",
+    "browserify": "^3.40.0",
+    "espowerify": "^0.6.1",
     "intelli-espower-loader": "0.0.7",
     "karma": "^0.12.2",
-    "karma-browserifast": "^0.4.1",
+    "karma-browserifast": "^0.4.3",
     "karma-chrome-launcher": "^0.1.2",
     "karma-mocha": "^0.1.3",
     "mocha": "^1.18.2",
-    "power-assert": "^0.6.0"
+    "power-assert": "^0.6.1"
   }
 }
